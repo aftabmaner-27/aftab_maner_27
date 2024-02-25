@@ -1,4 +1,4 @@
-![logo](https://github.com/aftabmaner-27/aftab_maner_27/blob/main/Premium%20Vector%20_%20Circuit%20board%20technology%20background.jpg)
+![logo](https://github.com/aftabmaner-27/aftab_maner_27/blob/main/hd.jpg)
 <h1 align="center">Hi 👋, I'm Aftab Maner</h1>
 <h3 align="center">A passionate Android and IOS developer from India</h3>
 
